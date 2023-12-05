@@ -3,3 +3,4 @@ pandas
 yfinance
 matplotlib
 scikit-learn
+jupyter-server>=2.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
