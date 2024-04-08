@@ -1,3 +1,4 @@
 pandas
 prophet
 plotly
+holidays>=0.45 # not directly required, pinned by Snyk to avoid a vulnerability
